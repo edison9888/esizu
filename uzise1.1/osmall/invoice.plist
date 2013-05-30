@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isinvoice</key>
+	<dict>
+		<key>1</key>
+		<string>不要发票</string>
+		<key>2</key>
+		<string>开具发票</string>
+	</dict>
+	<key>invoicetitle</key>
+	<dict>
+		<key>1</key>
+		<string>化妆品</string>
+		<key>2</key>
+		<string>保健品</string>
+		<key>3</key>
+		<string>内衣</string>
+		<key>4</key>
+		<string>包</string>
+	</dict>
+</dict>
+</plist>

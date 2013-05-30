@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>工作日、双休日与假日均可送货</string>
+	<key>2</key>
+	<string>只有双休日与假日送货（工作日不用送货）</string>
+	<key>3</key>
+	<string>只有工作日送货（双休日、假日不用送）写字楼/商用地址用户选择</string>
+	<key>4</key>
+	<string>学校地址（该地址白天没人，请尽量安排其他时间送货）特别安排可能超出预计送货天数</string>
+</dict>
+</plist>

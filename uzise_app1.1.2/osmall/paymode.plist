@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2</key>
+	<string>货到付款</string>
+	<key>5</key>
+	<string>支付宝</string>
+	<key>11</key>
+	<string>银联</string>
+</dict>
+</plist>

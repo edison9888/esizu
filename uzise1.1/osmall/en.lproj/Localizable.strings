@@ -1,0 +1,359 @@
+/* 
+  Localizable.strings
+  osmall
+
+  Created by 鑫华 刘 on 12-4-14.
+  Copyright (c) 2012年 COSDocument.org. All rights reserved.
+*/
+//home page
+"Home" = "Home";
+
+//Category List
+"Category" = "Category";
+
+//ShoppingCart
+"Cart" = "ShoppingCart";
+
+//My acount
+"My" = "My Acount";
+
+//More message
+"More" = "More";
+
+"HomeNavigation" ="Uzise Mall";
+
+"CategoryNavigation" = "CategoryList";
+
+//More message
+"MoreNavigation" = "MoreMessage";
+
+"Login" = "Logining";
+
+"Log_Out" = "LogOut";
+
+"Reg" = "Register";
+
+"Cancel" = "Cancel";
+
+"Password" = "Password";
+    
+"UserName" = "Username";
+
+"Remember_Password" = "Remember Password";
+
+"Remember_Me" = "Remember Me";
+
+"Keep_Online" = "Keep Online";
+
+"Submit" = "Submit";
+
+"Add_Cart" = "Add Cart";
+
+"Total_Price" = "Total Price";
+
+"Number" = "Number";
+
+"Original_Price" = "Original Price";
+
+"Price" = "Price";
+
+"ProductID"= "ProductID";
+
+"Quantity" = "Quantity";
+
+"Settlement" = "Settlement";
+
+"View_Cart" ="View Cart";
+
+"Address" = "Address";
+
+"Postcode" ="Postcode";
+
+"Name" = "Name";
+
+"Country" = "Country";
+
+"Area" = "Area";
+
+"City" = "City";
+
+"Province" = "Province";
+
+"Telephone" = "Telephone";
+
+"Mobile" = "Mobile";
+
+"Point" = "Point";
+
+"Load" = "Loading...";
+
+"MoreNews" = "+MoreNews";
+
+"TableEditing"= "Edit";
+
+"Complete" = "Done";
+
+"settlement" = "settlement";
+
+"keyboradCancel" = "Cancel";
+
+"keyboradApply" = "Apply";
+
+"UserLoginInputMessage" = "Please input you email or mobile";
+
+"PasswordInputMessage" = "Please input you password";
+
+"E-MailInputMessage" = "Please input you E-Mail";
+
+"MobileInputMessage" = "Please input correct number";
+
+"UserNameIsNULL" = "Please input nick name";
+
+"ConfirmInputMessage" = "Confirm password not correct";
+
+"I_Know" = "I Know";
+
+"New_User_Register" = "Register New User";
+
+"Register" = "Register";
+
+"Input_Email" = "Your Email";
+
+"Input_Mobile" = "Your Mobile";
+
+"Input_Password" = "Login Password";
+
+"Input_UserName" = "UserName";
+
+"Input_Confirm_Password" = "Confirm Login Password";
+
+"Show_Password" = "Show Password";
+
+"Email_Register" = "Email Register";
+
+"Mobile_Register" = "Mobile Register";
+
+"Success_Register" = "Congratulation";
+
+"Fail_Register" = "Fail,Please register agagin";
+
+"Login_Mall" = "Log-in";
+
+"Login_Later" = "Later";
+
+"NO_User_Data" = "Not User";
+
+"User_Password_Error" = "User Or Password Error";
+
+"My_Order" = "Order";
+
+"Delivery_Address" = "Delivery Address:";
+
+"Payment" = "Payment:";
+
+"Distribution_way" = "Distribution way:";
+
+"Invoice" = "Invoice:";
+
+"Ordinary_invoices" = "Ordinary Invoices";
+
+"Invoice_Content" = "Invoice Content:";
+
+"Book" = "Books:";
+
+"Not_Invoice" = "Not Invoice";
+
+"Gift_Card" = "Gift Card";
+
+"Balance" = "Balance";
+
+"Your_Balance" = "Your Balance:";
+
+"Not_Use" = "Not Use";
+
+"Order_Remarks" = "Remarks:";
+
+"Create_Order" = "Create Order";
+
+"Shopping_Total_Price" = "Shopping Price";
+
+"Freight" = "Freight";
+
+"Coupon" = "Coupon";
+
+"GiftCard" = "Gift Card";
+
+"Cash_Back" = "Cash back";
+
+"Should_Total_Price" = "Should Price";
+
+"Return" = "Return";
+
+"Shipping_address" = "Shipping Address";
+
+"Useful_addresses" = "Useful Addresses";
+
+"Product_NO" = "NO:";
+
+"Product_Price" = "Price";
+
+"Product_retallPrice" = "RetallPrice";
+
+"Product_Introduction" = "Introduction";
+
+"ProductIntroduction" = "Introduction";
+
+"Product_Comment" = "Comment";
+
+"Comment" = "Comments";
+
+"My_Order" = "Order";
+
+"Order_Number" = "Number";
+
+"Order_Cash" = "Price";
+
+"Order_CreateTime" = "DateTime";
+
+"Order_Status" = "Stauts";
+
+"Order_Details" = "Details";
+
+"Order_Shopping_Cash" = "Cash";
+
+"Order_Shopping_Freight" = "Freight";
+
+"Order_Shopping_Preferential" = "Preferential";
+
+"Order_Shopping_payedMoney" = "Payed";
+
+"Logistics" = "Logistics";
+
+"DeliverTime" = "DeliverTime";
+
+"Invoice_Name" = "Invoice Name";
+
+"Invoice_Content" = "Invoice Content";
+
+"ProductNO" = "NO";
+
+"Shopping_Total_Price" = "Total";
+
+"Total_Price" = "Price";
+
+"IVision" = "IVision";
+
+"Clear_Cart" = "Clear";
+
+"Create_Order" = "Order";
+
+"Total_payable" ="Total Price";
+
+"Cash_back" ="Cash Back";
+
+"Consignee_information" = "Consignee information";
+
+"New_Consignee" = "New Consignee";
+
+"Order_Success" = "Success";
+
+"Order_Message" = "You can forward the order in my acount";
+
+"Order_Fail" = "Fail";
+
+"Order_Fail_Message" = "Please contact tel-400-716-1818";
+
+"Order_Phone" = "Call me";
+
+"Order_GOMyAcount" = "GO MyAcount";
+
+"Cart_Message" = "Are you clear the shoppingcart?";
+
+"Cart_Clear" = "Clear";
+
+"Understanding_NOAdd" = "Understand NOAdd";
+
+"Score" = "Score To Uzsie";
+
+"Online_Phone" = "Telephone:400-716-1818";
+
+"Skin_Testing" = "Skin Testing";
+
+"Check_Upgrade" = "Upgrade";
+
+"Consignee_Name" = "Consignee";
+
+"Consignee_Area" = "Region";
+
+"Consignee_Address" = "Address";
+
+"Consignee_Mobile" = "Mobile";
+
+"Consignee_PostCode" = "Postcode";
+
+"Input_Consignee_Name" = "Input Consignee";
+
+"Input_Consignee_Region" = "Select Region";
+
+"Input_Consignee_Address" = "between 5 to 150";
+
+"Input_Consignee_Mobile" = "Input Mobile";
+
+"Input_Consignee_PostCode" = "Input Postcode";
+
+"Next_Button" = "Next Step";
+
+"Modify_Information" = "Modify Information";
+
+"New_Consignee_Information" = "New Consignee Information";
+
+"Please select province" = "Please Select Province";
+
+"Please select city" = "Please Select City";
+
+"Please select area" = "Please Select Area";
+
+"Invalid address" = "Invalid address";
+
+"Please input consignee" = "Please input consignee";
+
+"Postcode is empty" = "Postcode is empty";
+
+"Postcode must be numbers" = "Postcode must be numbers";
+
+"Address_Management" = "Address Management";
+
+"User_Point_Management" = "My Point";
+
+"Cash_Card_Management" = "Cash Card/Gift Card";
+
+"Pallet_Management" = "Pallet";
+
+"Group_Order_Management" = "My Group Purchase Order";
+
+"Invite_Friend" = "Invite You Friend";
+
+"Product_Comment" = "Product Comment";
+
+"My_Question" = "My Question";
+
+"Please_Selet" ="Please Selet";
+
+"Selet_Distribution_way" ="Selet Distribution Way";
+
+"Invoice_Ttile" ="Invoice Ttile(less than 30 word)";
+
+"Invoice_Message_1" ="Please Input Invoice Title";
+
+"Invoice_Message_2" ="Invoice Ttile Less Than 30 Word";
+
+"Home_News" = "News";
+
+"Month_Promotions" = "Month Promotions";
+
+"Season_hot" = "Season hot";
+
+"Shopping_Cart_Empty" = "Shopping cart is empty";
+
+"Currency Unit" = "Dollar";
+
